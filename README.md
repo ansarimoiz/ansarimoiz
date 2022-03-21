@@ -8,7 +8,7 @@
 - **Master Student** at Concordia University
 - **Graduate Research & Teaching Assistant** at Concordia University
 
-**Field of interests**: NLP, RL, Graphs, DevOps
+**Field of interests**: Mathematical Modelling, Simulation, Optimization. 
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL] , [C]
