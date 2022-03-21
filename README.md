@@ -11,7 +11,7 @@
 **Field of interests**: Mathematical Modelling, Simulation, Optimization. 
 
 ### Skills 🛠️
-- **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL] , [C]
+- **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL] (https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
 - **Tools & Skill**: &nbsp;  Mathematical Modelling, Arena Simulation, CPLEX , Tableau, , MS Office (Excel, Word, PowerPoint)
  
 <!-- ### Work experience 👔
@@ -44,9 +44,9 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4
 
-#### Other
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
+#### Tableau Project
+- [Dataco Dashboard](https://tabsoft.co/34zS2cc ) - an interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
+<!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
   
 <!--
 ### Contributions 💡
