@@ -8,10 +8,11 @@
 - **Master of Applied Science Student** at Concordia University
 - **Graduate Research Assistant** under Dr. Ivan Contreras
 
+
 **Field of interests**: Mathematical Modelling, Simulation, Optimization. 
 
 ### Skills 🛠️
-- **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL] (https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
+- **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
 - **Tools & Skill**: &nbsp;  Mathematical Modelling, Arena Simulation, CPLEX , Tableau, , MS Office (Excel, Word, PowerPoint)
  
 <!-- ### Work experience 👔
@@ -36,7 +37,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 ### Projects  
 #### Simulation of a Covid Affected Restaurant
 - Complete demonstration of Covid Spread in a Restaurant
-
+ 
 https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-a9ff-d9adcbb2ec6b.mp4
 
 #### Simulation of Production Facility, Aramark, Montreal
@@ -44,8 +45,11 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4
 
-#### Tableau Project
-- [Dataco Dashboard](https://tabsoft.co/34zS2cc ) - an interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
+#### Tableau Projects
+- [Dataco Dashboard](https://tabsoft.co/34zS2cc ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
+![Screenshot_6](https://user-images.githubusercontent.com/76538829/159344417-0f074759-112a-4863-b8b7-1cf6962e83ed.png)
+- [Customer Sales Dashboard](https://tabsoft.co/34zS2cc ) - An interactive dashboard displaying sales information such as profit margin, most profitable products and segmentation based on different types and countries.  
+![Screenshot_7](https://user-images.githubusercontent.com/76538829/159344897-72915218-ae31-48a2-8584-8eb738259929.png)
 <!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
   
 <!--
@@ -84,6 +88,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 
