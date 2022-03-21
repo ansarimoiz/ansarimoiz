@@ -46,11 +46,18 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4
 
 #### Tableau Projects
-- [Dataco Dashboard](https://tabsoft.co/34zS2cc ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
-![Screenshot_6](https://user-images.githubusercontent.com/76538829/159344417-0f074759-112a-4863-b8b7-1cf6962e83ed.png)
-- [Customer Sales Dashboard](https://tabsoft.co/34zS2cc ) - An interactive dashboard displaying sales information such as profit margin, most profitable products and segmentation based on different types and countries.  
-![Screenshot_7](https://user-images.githubusercontent.com/76538829/159344897-72915218-ae31-48a2-8584-8eb738259929.png)
-<!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
+- [Dataco Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1 ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
+<a href="https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1">
+         <img alt="Dataco" src="https://user-images.githubusercontent.com/76538829/159344417-0f074759-112a-4863-b8b7-1cf6962e83ed.png"
+          >
+</a>
+
+ - [Customer Sales Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/CustomerSalesDashboard_16442861479950/Dashboard2 ) - An interactive dashboard displaying sales information such as profit margin, most profitable products and segmentation based on different types and countries.  
+<a href="https://public.tableau.com/app/profile/abdul.moiz5918/viz/CustomerSalesDashboard_16442861479950/Dashboard2">
+         <img alt="Customer Sales" src="https://user-images.githubusercontent.com/76538829/159344897-72915218-ae31-48a2-8584-8eb738259929.png"
+          >
+</a>
+ <!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
   
 <!--
 ### Contributions 💡
