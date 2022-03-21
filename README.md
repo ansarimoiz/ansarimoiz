@@ -34,16 +34,14 @@ My solutions for Home Assignments for **Machine Learning Job Interviews**: [link
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
-#### NLP
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
+#### Simulation
+- [Simulation of a Covid Affected Restaurant] https://user-images.githubusercontent.com/76538829/159294710-8d2c1111-f3d9-4d66-a9d7-6a69cc243bb5.mp4 - Complete demonstration of Covid Spread in a Restaurant
 - [Latent Semantic Analysis](https://github.com/dayyass/latent-semantic-analysis) - pipeline for training LSA models using Scikit-Learn
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
+ 
 #### Other
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
-- [Extended Naive Bayes](https://github.com/dayyass/extended-naive-bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
-- [Minor Projects](https://github.com/dayyass/minor-projects) - list of my other minor projects
-
+  
 <!--
 ### Contributions 💡
 - [GAN for Tabular Data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
@@ -88,3 +86,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
