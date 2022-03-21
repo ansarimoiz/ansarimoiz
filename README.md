@@ -5,8 +5,8 @@
 <!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Abdul Moiz 👋 
-- **Master Student** at Concordia University
-- **Graduate Research & Teaching Assistant** at Concordia University
+- **Master of Applied Science Student** at Concordia University
+- **Graduate Research Assistant** under Dr. Ivan Contreras
 
 **Field of interests**: Mathematical Modelling, Simulation, Optimization. 
 
@@ -14,24 +14,24 @@
 - **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL] , [C]
 - **Tools & Skill**: &nbsp;  Mathematical Modelling, Arena Simulation, CPLEX , Tableau, , MS Office (Excel, Word, PowerPoint)
  
-### Work experience 👔
+<!-- ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
 | **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — until now** |
 | Industrial Intern     | Business Innovation Labs | Industrial         | 01.02.2021 — 30.04.2021    |
  
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//)
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//) -->
 
-My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews)
+<!-- My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews) -->
 
-### Education 🎓
+<!-- ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
   - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging"
 - **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
   - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate"
   - [Calculus of Variations](https://github.com/dayyass/calculus-of-variations) - bachelor project on solving the Calculus of Variations problems
 
-More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
+More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
 #### Simulation of a Covid Affected Restaurant
@@ -58,22 +58,15 @@ https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-
 
  
 ### Certifications 📜
-#### DS/ML/DL
-- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) @ Coursera
-- [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-#### DevOps
-- [Introduction to Linux](https://stepik.org/cert/144831) @ Stepik
-- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
+ 
+- [Python for Everybody](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) @ Coursera
+- [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/) @ Udemy
 
-More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
+Linkedin Profile [LinkedIn](https://www.linkedin.com/in/ansari18).
   
  
 ### Achievements 🏆
-- Graduate Power Scholarship 
+- Power Corporation of Canada Graduate Fellowship
 <!--
 ### Github Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
