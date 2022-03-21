@@ -35,7 +35,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
 #### Simulation
-- [Simulation of a Covid Affected Restaurant] https://user-images.githubusercontent.com/76538829/159294710-8d2c1111-f3d9-4d66-a9d7-6a69cc243bb5.mp4 - Complete demonstration of Covid Spread in a Restaurant
+- [Simulation of a Covid Affected Restaurant] - Complete demonstration of Covid Spread in a Restaurant
+https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-a9ff-d9adcbb2ec6b.mp4
 - [Latent Semantic Analysis](https://github.com/dayyass/latent-semantic-analysis) - pipeline for training LSA models using Scikit-Learn
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
  
@@ -65,7 +66,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
   
-https://user-images.githubusercontent.com/76538829/159294710-8d2c1111-f3d9-4d66-a9d7-6a69cc243bb5.mp4 
+ 
 ### Achievements 🏆
 - Graduate Power Scholarship 
 <!--
@@ -86,6 +87,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 
 
 
