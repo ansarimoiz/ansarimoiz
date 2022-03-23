@@ -8,6 +8,8 @@
 - **Master of Applied Science Student** at Concordia University
 - **Graduate Research Assistant** under Dr. Ivan Contreras
 
+[My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336290/AbdulMoiz.pdf)
+
 
 **Field of interests**: Mathematical Modelling, Simulation, Optimization. 
 
