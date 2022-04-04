@@ -11,7 +11,7 @@
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
 
-**Field of interests**: Mathematical Modelling, Simulation, Optimization. 
+**Field of interests**: Data Analysis, Mathematical Modelling, Simulation, Optimization. 
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
