@@ -8,7 +8,7 @@
 - **Master of Applied Science Student** at Concordia University
 - **Graduate Research Assistant** under Dr. Ivan Contreras
 
-[My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf)
+<!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
 
 **Field of interests**: Mathematical Modelling, Simulation, Optimization. 
@@ -37,7 +37,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
-#### Simulation of a Covid Affected Restaurant
+<!-- #### Simulation of a Covid Affected Restaurant
 - Complete demonstration of Covid Spread in a Restaurant
  
 https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-a9ff-d9adcbb2ec6b.mp4
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 #### Simulation of Production Facility, Aramark, Montreal
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
-https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4
+https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4 -->
 
 #### Tableau Projects
 - [Dataco Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1 ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
@@ -59,6 +59,8 @@ https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-
          <img alt="Customer Sales" src="https://user-images.githubusercontent.com/76538829/159344897-72915218-ae31-48a2-8584-8eb738259929.png"
           >
 </a>
+
+-[Data Exploration using Covid Dataset] (https://github.com/ansarimoiz/SQL_Project)
  <!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
   
 <!--
