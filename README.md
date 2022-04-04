@@ -46,6 +46,8 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4 -->
+#### SQL Project
+- [Data Exploration using Covid Dataset](https://github.com/ansarimoiz/SQL_Project)
 
 #### Tableau Projects
 - [Dataco Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1 ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
@@ -60,7 +62,7 @@ https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-
           >
 </a>
 
--[Data Exploration using Covid Dataset] (https://github.com/ansarimoiz/SQL_Project)
+
  <!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
   
 <!--
