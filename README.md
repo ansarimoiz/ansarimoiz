@@ -46,12 +46,12 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4 -->
-#### Machine Learning using Numpy, Pandas 
+#### Machine Learning using Numpy, Pandas , Scikit
 
-Classification using Decision Tree            |  Regression Model using Random Forest
+[Classification using Decision Tree](https://github.com/ansarimoiz/MachineLearning/blob/main/Decision_Tree_Classification.ipynb)            |  [Regression Model using Random Forest](https://github.com/ansarimoiz/MachineLearning/blob/main/Random_Forest_regression.ipynb)
 :-------------------------:|:-------------------------:
- ![image](https://user-images.githubusercontent.com/76538829/162414421-b332f0c3-265f-4af2-925e-99b339c59b89.png) |  ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)
- A Decision Tree Classification, demonstrating whether a customer purchases a vehicle or not based on age and Salary | Regression model predicting the Salary of Clients based on their position level (Junior, Associate , Manager etc. )
+ ![image](https://user-images.githubusercontent.com/76538829/162421777-cadd7c02-1496-4627-bc14-741ca9b73db6.png) |  ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)
+ A Decision Tree Classification, demonstrating purchase decision of customer based on Age and Salary | Regression model predicting the Salary of clients based on their position level (Junior, Associate , Manager etc. )
 
 
 #### SQL Project
