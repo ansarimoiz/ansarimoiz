@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-
 |  [Regression Model using Random Forest](https://github.com/ansarimoiz/MachineLearning/blob/main/Random_Forest_regression.ipynb)      | [Classification using Decision Tree](https://github.com/ansarimoiz/MachineLearning/blob/main/Decision_Tree_Classification.ipynb)            | [K-Means Clustering](https://github.com/ansarimoiz/MachineLearning/blob/main/K_Means_clustering.ipynb) |
 | :-------------: |:-------------:| :-------------:|
 |   ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)     | ![image](https://user-images.githubusercontent.com/76538829/162421777-cadd7c02-1496-4627-bc14-741ca9b73db6.png)| ![image](https://user-images.githubusercontent.com/76538829/162434963-68872447-e3bb-4cf2-b665-eabb536dfb21.png) |
-| Regression model predicting the Salary of clients based on their position level (Junior, Manager etc. )     | A Decision Tree Classification, demonstrating purchase decision of customer based on Age and Salary      |   A K Means Clusterint to cluster customers on factors such as Age , Income , Gender and Spend score           |
+| Regression model predicting the Salary of clients based on their position level (Junior, Manager etc. )     | A Decision Tree Classification, demonstrating purchase decision of customer based on Age and Salary      |   A K Means Clustering to cluster customers on factors such as Age , Income , Gender and Spend score           |
  
 #### SQL Project
 - [Data Exploration using Covid Dataset](https://github.com/ansarimoiz/SQL_Project)
