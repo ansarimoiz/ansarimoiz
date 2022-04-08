@@ -10,7 +10,6 @@
 
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
-
 **Field of interests**: Data Analysis, Mathematical Modelling, Simulation, Optimization. 
 
 ### Skills 🛠️
@@ -22,7 +21,8 @@
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
 | **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — until now** |
 | Industrial Intern     | Business Innovation Labs | Industrial         | 01.02.2021 — 30.04.2021    |
- 
+
+
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//) -->
 
 <!-- My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews) -->
@@ -46,6 +46,14 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4 -->
+#### Machine Learning using Numpy, Pandas 
+
+Classification using Decision Tree            |  Regression Model using SVM
+:-------------------------:|:-------------------------:
+ ![image](https://user-images.githubusercontent.com/76538829/162414421-b332f0c3-265f-4af2-925e-99b339c59b89.png) |  ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)
+ A Decision Tree Classification, demonstrating whether a customer purchases a vehicle or not based on age and Salary | Regression model predicting the Salary of Clients based on their position level (Junior, Associate , Manager etc. )
+
+
 #### SQL Project
 - [Data Exploration using Covid Dataset](https://github.com/ansarimoiz/SQL_Project)
 
@@ -73,7 +81,6 @@ https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-
 <!-- - [Simple ELMo](https://github.com/ltgoslo/simple_elmo) - simple library to work with pre-trained ELMo models in TensorFlow -->
 <!-- - [Made With ML](https://github.com/GokuMohandas/MadeWithML) - applied ML and MLOps courses -->
 
- 
 ### Certifications 📜
  
 - [Python for Everybody](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) @ Coursera
