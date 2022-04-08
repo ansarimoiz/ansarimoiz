@@ -14,7 +14,7 @@
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
-- **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matlpotlib), Machine Learning (Regression, Classification), SQL, Tableau, Arena Simulation, CPLEX, MS Office (Excel, Word, PowerPoint)
+- **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matplotlib), Machine Learning (sklearn, TensorFlow), SQL, Tableau, Arena Simulation, CPLEX, MS Office (Excel, Word, PowerPoint).
  
 <!--  ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
