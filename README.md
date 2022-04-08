@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4 -->
 #### Machine Learning using Numpy, Pandas 
 
-Classification using Decision Tree            |  Regression Model using SVM
+Classification using Decision Tree            |  Regression Model using Random Forest
 :-------------------------:|:-------------------------:
  ![image](https://user-images.githubusercontent.com/76538829/162414421-b332f0c3-265f-4af2-925e-99b339c59b89.png) |  ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)
  A Decision Tree Classification, demonstrating whether a customer purchases a vehicle or not based on age and Salary | Regression model predicting the Salary of Clients based on their position level (Junior, Associate , Manager etc. )
