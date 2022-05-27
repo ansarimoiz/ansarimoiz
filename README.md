@@ -37,7 +37,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
-<!-- #### Simulation of a Covid Affected Restaurant
+#### Simulation of a Covid Affected Restaurant
 - Complete demonstration of Covid Spread in a Restaurant
  
 https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-a9ff-d9adcbb2ec6b.mp4
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 #### Simulation of Production Facility, Aramark, Montreal
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
-https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4 -->
+https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4  
 #### Machine Learning using Numpy, Pandas , Scikit
 |  [Regression Model using Random Forest](https://github.com/ansarimoiz/MachineLearning/blob/main/Random_Forest_regression.ipynb)      | [Classification using Decision Tree](https://github.com/ansarimoiz/MachineLearning/blob/main/Decision_Tree_Classification.ipynb)            | [K-Means Clustering](https://github.com/ansarimoiz/MachineLearning/blob/main/K_Means_clustering.ipynb) |
 | :-------------: |:-------------:| :-------------:|
