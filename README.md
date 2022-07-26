@@ -6,7 +6,7 @@
 
 ### Hi, my name is Abdul Moiz 👋 
 - **Master of Applied Science Student** at Concordia University
-- **Graduate Research Assistant** under Dr. Ivan Contreras
+- **Graduate Research Assistant** under Dr. Ivan Contreras with over 1.5 years of experience
 
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
@@ -16,14 +16,14 @@
 - **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
 - **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matplotlib), Machine Learning (sklearn, TensorFlow), SQL, Tableau, Arena Simulation, CPLEX, MS Office (Excel, Word, PowerPoint).
  
-<!--  ### Work experience 👔
+  ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — until now** |
+| **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — to date** |
 | Industrial Intern     | Business Innovation Labs | Industrial         | 01.02.2021 — 30.04.2021    |
 
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//) -->
+<!-- More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//)  -->
 
 <!-- My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews) -->
 
@@ -37,7 +37,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
-#### Simulation of a Covid Affected Restaurant
+<!-- #### Simulation of a Covid Affected Restaurant
 - Complete demonstration of Covid Spread in a Restaurant
  
 https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-a9ff-d9adcbb2ec6b.mp4
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 #### Simulation of Production Facility, Aramark, Montreal
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
-https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4  
+https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4   -->
 #### Machine Learning using Numpy, Pandas , Scikit
 |  [Regression Model using Random Forest](https://github.com/ansarimoiz/MachineLearning/blob/main/Random_Forest_regression.ipynb)      | [Classification using Decision Tree](https://github.com/ansarimoiz/MachineLearning/blob/main/Decision_Tree_Classification.ipynb)            | [K-Means Clustering](https://github.com/ansarimoiz/MachineLearning/blob/main/K_Means_clustering.ipynb) |
 | :-------------: |:-------------:| :-------------:|
