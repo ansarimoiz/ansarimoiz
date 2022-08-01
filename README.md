@@ -19,7 +19,7 @@
   ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — to date** |
+| **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — 15.08.2022** |
 | Industrial Intern     | Business Innovation Labs | Industrial         | 01.02.2021 — 30.04.2021    |
 
 
@@ -37,15 +37,22 @@
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
-<!-- #### Simulation of a Covid Affected Restaurant
-- Complete demonstration of Covid Spread in a Restaurant
+#### Operations Research 
+- [A Scatter Search algorithm to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Scatter_Search.ipynb)
+
+- [A Particle Swarm algorithm to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
+
+- [A Cplex model to solve a single level product pricing model with ranks and utility](https://github.com/ansarimoiz/Cplex/blob/main/Single%20Level%20Reformulation.ipynb)
+#### Simulation of a Covid Affected Restaurant
+- Demonstration of spread of covid in a restaurant using Arena
  
 https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-a9ff-d9adcbb2ec6b.mp4
 
 #### Simulation of Production Facility, Aramark, Montreal
 -	Modelled and Simulated various alternatives with different KPIs and analyzed them thereby improving their workforce scheduling and utilization of resources by 32%.
 
-https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4   -->
+https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4    
+
 #### Machine Learning using Numpy, Pandas , Scikit
 |  [Regression Model using Random Forest](https://github.com/ansarimoiz/MachineLearning/blob/main/Random_Forest_regression.ipynb)      | [Classification using Decision Tree](https://github.com/ansarimoiz/MachineLearning/blob/main/Decision_Tree_Classification.ipynb)            | [K-Means Clustering](https://github.com/ansarimoiz/MachineLearning/blob/main/K_Means_clustering.ipynb) |
 | :-------------: |:-------------:| :-------------:|
