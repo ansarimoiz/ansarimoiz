@@ -38,6 +38,10 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
 #### Operations Research 
+- [Evaluation of ANN, Support Vector and Random Forest to predict patient's heart failure](https://github.com/ansarimoiz/MachineLearning/blob/main/Heart%20Failure%20Prediction%20.ipynb)
+
+- [ANN model to predict the customer's retention rate for a bank](https://github.com/ansarimoiz/MachineLearning/blob/main/Client_Retention.ipynb)
+
 - [A Scatter Search algorithm to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Scatter_Search.ipynb)
 
 - [A Particle Swarm algorithm to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
