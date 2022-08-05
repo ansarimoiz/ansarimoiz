@@ -5,7 +5,7 @@
 <!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Abdul Moiz 👋 
-- **Master of Applied Science Student** at Concordia University
+- **Master of Applied Science Graduate** from Concordia University
 - **Graduate Research Assistant** under Dr. Ivan Contreras with over 1.5 years of experience
 
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
@@ -19,8 +19,8 @@
   ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Research Assistant**| **Concordia University**    | **Operations Research**      | **01.01.2021 — 15.08.2022** |
-| Industrial Intern     | Business Innovation Labs | Industrial         | 01.02.2021 — 30.04.2021    |
+| **Operations Research Analyst**| **Concordia University**    | **Operations Research**      | **01.01.2021 — 15.08.2022** |
+| Industrial Intern     | Business Innovation Labs | Industrial Engineering        | 01.02.2021 — 30.04.2021    |
 
 
 <!-- More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//)  -->
