@@ -40,7 +40,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 #### Machine Learning and AI Projects 
 - [Evaluation of ANN, Support Vector and Random Forest to predict patient's heart failure](https://github.com/ansarimoiz/MachineLearning/blob/main/Heart%20Failure%20Prediction%20.ipynb) 
 
-- [ANN model to predict the customer's retention rate for a bank](https://github.com/ansarimoiz/MachineLearning/blob/main/Client_Retention.ipynb)
+- [ANN model to predict the customer's retention for a bank](https://github.com/ansarimoiz/MachineLearning/blob/main/Client_Retention.ipynb)
 
 |  [Regression Model using Random Forest](https://github.com/ansarimoiz/MachineLearning/blob/main/Random_Forest_regression.ipynb)      | [Classification using Decision Tree](https://github.com/ansarimoiz/MachineLearning/blob/main/Decision_Tree_Classification.ipynb)            | [K-Means Clustering](https://github.com/ansarimoiz/MachineLearning/blob/main/K_Means_clustering.ipynb) |
 | :-------------: |:-------------:| :-------------:|
