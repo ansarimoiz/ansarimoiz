@@ -6,7 +6,7 @@
 
 ### Hi, my name is Abdul Moiz 👋 
 - **Master of Applied Science Graduate** from Concordia University
-- **Graduate Research Assistant** under Dr. Ivan Contreras with over 1.5 years of experience
+- **Graduate Research Assistant** under Dr. Ivan Contreras with about 2 years of experience
 
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
@@ -37,6 +37,16 @@
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
+
+#### Operations Research 
+
+- [A Scatter Search metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Scatter_Search.ipynb)
+
+- [A Particle Swarm metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
+
+- [A Cplex model to solve a single level product pricing model with ranks and utility](https://github.com/ansarimoiz/Cplex/blob/main/Single%20Level%20Reformulation.ipynb)
+
+
 #### Machine Learning and AI Projects 
 - [Evaluation of ANN, Support Vector and Random Forest to predict patient's heart failure](https://github.com/ansarimoiz/MachineLearning/blob/main/Heart%20Failure%20Prediction%20.ipynb) 
 
@@ -47,13 +57,9 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 |   ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)     | ![image](https://user-images.githubusercontent.com/76538829/162421777-cadd7c02-1496-4627-bc14-741ca9b73db6.png)| ![image](https://user-images.githubusercontent.com/76538829/162434963-68872447-e3bb-4cf2-b665-eabb536dfb21.png) |
 | Regression model predicting the Salary of clients based on their position level (Junior, Manager etc. )     | A Decision Tree Classification, demonstrating purchase decision of customer based on Age and Salary      |   A K Means Clustering to cluster customers on factors such as Age , Income , Gender and Spend score           |
  
-#### Operations Research 
 
-- [A Scatter Search algorithm to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Scatter_Search.ipynb)
 
-- [A Particle Swarm algorithm to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
 
-- [A Cplex model to solve a single level product pricing model with ranks and utility](https://github.com/ansarimoiz/Cplex/blob/main/Single%20Level%20Reformulation.ipynb)
 <!-- #### Simulation of a Covid Affected Restaurant
 - Demonstration of spread of covid in a restaurant using Arena
  
