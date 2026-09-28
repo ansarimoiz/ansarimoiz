@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 #### Data Engineering
 
 | Project Link | Tools | Project Description | 
-|---|---|---|---|
+|---|---|---|
 | 🚗 [NYC_Taxi](https://github.com/ansarimoiz/Data_Engineering/tree/205d53c5bf94bacad5f88f7c7e17f964670af256/NYC_Taxi_2026) | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
  
 
