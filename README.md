@@ -7,7 +7,7 @@
 ### Hi, my name is Abdul Moiz 👋 
 ##### I'm a Data Analyst with expertise in business intelligence, ETL pipeline development, and data modeling.
 ##### I've built end-to-end analytics workflows from requirements gathering through data pipeline development to dashboard delivery across finance and operations functions, working with datasets exceeding a million records. 
-##### I’ve also worked on predictive modelling, including a vessel booking cancellation model that achieved 75% accuracy. During my Master’s, I developed a bilevel optimization model for product pricing and worked with other optimization methods.  
+##### I’ve also worked on predictive modelling, including a vessel booking cancellation model that achieved 75% accuracy.  
 
 - **Master of Applied Science Graduate** from Concordia University
 <!-- - **Graduate Research Assistant** under Dr. Ivan Contreras with about 2 years of experience
@@ -18,11 +18,13 @@
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
-- **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matplotlib), Machine Learning (sklearn, TensorFlow), SQL, Tableau, Arena Simulation, CPLEX, MS Office (Excel, Word, PowerPoint).
+- **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matplotlib), Machine Learning (sklearn, TensorFlow),Power BI, Tableau, MS Office (Excel, Word, PowerPoint).
+- **Database**: Google BigQuery, MySQL (SSMS).
  
   ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
+| **Business Intelligence Analyst**| **Mediterranean Shipping Company**    | **Data Analytics**      | **26.09.2022 — 24.04.2026** |
 | **Operations Research Analyst**| **Concordia University**    | **Operations Research**      | **01.01.2021 — 15.08.2022** |
 | Industrial Intern     | Business Innovation Labs | Industrial Engineering        | 01.02.2021 — 30.04.2021    |
 
@@ -42,15 +44,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 
 ### Projects  
 
-#### Operations Research 
-
-- [A Scatter Search metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Scatter_Search.ipynb)
-
-- [A Particle Swarm metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
-
-- [A Cplex model to solve a single level product pricing model with ranks and utility](https://github.com/ansarimoiz/Cplex/blob/main/Single%20Level%20Reformulation.ipynb)
-
-
 #### Machine Learning and AI Projects 
 - [Evaluation of ANN, Support Vector and Random Forest to predict patient's heart failure](https://github.com/ansarimoiz/MachineLearning/blob/main/Heart%20Failure%20Prediction%20.ipynb) 
 
@@ -60,7 +53,32 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 | :-------------: |:-------------:| :-------------:|
 |   ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)     | ![image](https://user-images.githubusercontent.com/76538829/162421777-cadd7c02-1496-4627-bc14-741ca9b73db6.png)| ![image](https://user-images.githubusercontent.com/76538829/162434963-68872447-e3bb-4cf2-b665-eabb536dfb21.png) |
 | Regression model predicting the Salary of clients based on their position level (Junior, Manager etc. )     | A Decision Tree Classification, demonstrating purchase decision of customer based on Age and Salary      |   A K Means Clustering to cluster customers on factors such as Age , Income , Gender and Spend score           |
- 
+
+
+#### Tableau Projects
+- [Dataco Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1 ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
+<a href="https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1">
+         <img alt="Dataco" src="https://user-images.githubusercontent.com/76538829/159344417-0f074759-112a-4863-b8b7-1cf6962e83ed.png"
+          >
+</a>
+
+ - [Customer Sales Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/CustomerSalesDashboard_16442861479950/Dashboard2 ) - An interactive dashboard displaying sales information such as profit margin, most profitable products and segmentation based on different types and countries.  
+<a href="https://public.tableau.com/app/profile/abdul.moiz5918/viz/CustomerSalesDashboard_16442861479950/Dashboard2">
+         <img alt="Customer Sales" src="https://user-images.githubusercontent.com/76538829/159344897-72915218-ae31-48a2-8584-8eb738259929.png"
+          >
+</a>
+
+#### SQL Project
+- [Data Exploration using Covid Dataset](https://github.com/ansarimoiz/SQL_Project)
+
+
+#### Operations Research 
+
+- [A Scatter Search metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Scatter_Search.ipynb)
+
+- [A Particle Swarm metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
+
+- [A Cplex model to solve a single level product pricing model with ranks and utility](https://github.com/ansarimoiz/Cplex/blob/main/Single%20Level%20Reformulation.ipynb)
 
 
 
@@ -75,21 +93,7 @@ https://user-images.githubusercontent.com/76538829/159295464-334c5583-37d9-4297-
 https://user-images.githubusercontent.com/76538829/159298801-7b5f0ccf-5281-4e56-9fae-a03d93dc795f.mp4    -->
 
 
-#### SQL Project
-- [Data Exploration using Covid Dataset](https://github.com/ansarimoiz/SQL_Project)
 
-#### Tableau Projects
-- [Dataco Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1 ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
-<a href="https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1">
-         <img alt="Dataco" src="https://user-images.githubusercontent.com/76538829/159344417-0f074759-112a-4863-b8b7-1cf6962e83ed.png"
-          >
-</a>
-
- - [Customer Sales Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/CustomerSalesDashboard_16442861479950/Dashboard2 ) - An interactive dashboard displaying sales information such as profit margin, most profitable products and segmentation based on different types and countries.  
-<a href="https://public.tableau.com/app/profile/abdul.moiz5918/viz/CustomerSalesDashboard_16442861479950/Dashboard2">
-         <img alt="Customer Sales" src="https://user-images.githubusercontent.com/76538829/159344897-72915218-ae31-48a2-8584-8eb738259929.png"
-          >
-</a>
 
 
  <!--- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
