@@ -5,42 +5,12 @@
 <!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Abdul Moiz 👋 
-##### I'm a Data Analyst with expertise in business intelligence, ETL pipeline development, and data modeling.
-##### I've built end-to-end analytics workflows from requirements gathering through data pipeline development to dashboard delivery across finance and operations functions, working with datasets exceeding a million records. 
-##### I’ve also worked on predictive modelling, including a vessel booking cancellation model that achieved 75% accuracy.  
-
-- **Master of Applied Science Graduate** from Concordia University
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 <!-- - **Graduate Research Assistant** under Dr. Ivan Contreras with about 2 years of experience
 
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
-**Field of interests**: Data Analysis, Mathematical Modelling, Simulation, Optimization. 
-
-### Skills 🛠️
-- **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
-- **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matplotlib), Machine Learning (sklearn, TensorFlow),Power BI, Tableau, MS Office (Excel, Word, PowerPoint).
-- **Database**: Google BigQuery, MySQL (SSMS).
- 
-  ### Work experience 👔
-| Job Position          | Company        | Field                           | Work Period                |
-| --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **Business Intelligence Analyst**| **Mediterranean Shipping Company**    | **Data Analytics**      | **26.09.2022 — 24.04.2026** |
-| **Operations Research Analyst**| **Concordia University**    | **Operations Research**      | **01.01.2021 — 15.08.2022** |
-| Industrial Intern     | Business Innovation Labs | Industrial Engineering        | 01.02.2021 — 30.04.2021    |
-
-
-<!-- More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//)  -->
-
-<!-- My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews) -->
-
-<!-- ### Education 🎓
-- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
-  - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging"
-- **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
-  - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate"
-  - [Calculus of Variations](https://github.com/dayyass/calculus-of-variations) - bachelor project on solving the Calculus of Variations problems
-
-More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
+<!-- **Field of interests**: Data Analysis, Mathematical Modelling, Simulation, Optimization.   -->
 
 ### Projects  
 
@@ -54,6 +24,12 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 |   ![image](https://user-images.githubusercontent.com/76538829/162415714-0966b3c7-7a14-4e52-9c89-6614bd6b59f8.png)     | ![image](https://user-images.githubusercontent.com/76538829/162421777-cadd7c02-1496-4627-bc14-741ca9b73db6.png)| ![image](https://user-images.githubusercontent.com/76538829/162434963-68872447-e3bb-4cf2-b665-eabb536dfb21.png) |
 | Regression model predicting the Salary of clients based on their position level (Junior, Manager etc. )     | A Decision Tree Classification, demonstrating purchase decision of customer based on Age and Salary      |   A K Means Clustering to cluster customers on factors such as Age , Income , Gender and Spend score           |
 
+#### Data Engineering
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🚗 [NYC_Taxi](https://github.com/ansarimoiz/Data_Engineering/tree/205d53c5bf94bacad5f88f7c7e17f964670af256/NYC_Taxi_2026) | Sept 2026 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+ 
 
 #### Tableau Projects
 - [Dataco Dashboard](https://public.tableau.com/app/profile/abdul.moiz5918/viz/DataCoSupplyChain_16442483161230/Dashboard1 ) - An interactive dashboard displaying a geographical display of countries by product sales and other KPI’s 
@@ -79,6 +55,35 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
 - [A Particle Swarm metaheuristic to solve a bilevel product pricing problem](https://github.com/ansarimoiz/Cplex/blob/main/Particle_Swarm.ipynb)
 
 - [A Cplex model to solve a single level product pricing model with ranks and utility](https://github.com/ansarimoiz/Cplex/blob/main/Single%20Level%20Reformulation.ipynb)
+
+
+<!-- ### Skills 🛠️
+- **Languages**:        [Python](https://coursera.org/share/5180d04d5e9b60cfe7b5a54281de9dd5) , [SQL](https://www.udemy.com/certificate/UC-cf40c334-240b-4e8b-a97c-4eed9d1bcccd/), C
+- **Tools & Skill**: &nbsp;  Data Analysis (Numpy, Pandas, Matplotlib), Machine Learning (sklearn, TensorFlow),Power BI, Tableau, MS Office (Excel, Word, PowerPoint).
+- **Database**: Google BigQuery, MySQL (SSMS). -->
+
+ <!-- 
+  ### Work experience 👔
+| Job Position          | Company        | Field                           | Work Period                |
+| --------------------- | -------------- | ------------------------------- | -------------------------- |
+| **Business Intelligence Analyst**| **Mediterranean Shipping Company**    | **Data Analytics**      | **26.09.2022 — 24.04.2026** |
+| **Operations Research Analyst**| **Concordia University**    | **Operations Research**      | **01.01.2021 — 15.08.2022** |
+| Industrial Intern     | Business Innovation Labs | Industrial Engineering        | 01.02.2021 — 30.04.2021    |
+-->
+
+<!-- More about work experience in my [LinkedIn](https://www.linkedin.com/in/ansari18//)  -->
+
+<!-- My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews) -->
+
+<!-- ### Education 🎓
+- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
+  - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging"
+- **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
+  - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate"
+  - [Calculus of Variations](https://github.com/dayyass/calculus-of-variations) - bachelor project on solving the Calculus of Variations problems
+
+More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/). -->
+
 
 
 
