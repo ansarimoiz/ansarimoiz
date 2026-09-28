@@ -44,6 +44,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
           >
 </a>
 
+#### Looker Projects
+- [NYC_Taxi](https://datastudio.google.com/reporting/8e58e478-86ff-4a5a-b824-6c88dc6d1918) -Dashboard analyzing NYC taxi trips, including trip volume, revenue, fares, distances, payment methods, and pickup/drop-off patterns across taxi zones.
+<a href="https://datastudio.google.com/s/vYzNPmXqjX0">
+         <img width="437" height="441" alt="image" src="https://github.com/user-attachments/assets/674be2bc-391f-440a-acb1-cf2d4ea2d037" />
+ 
+</a>
+![Uploading image.png…]()
+
 #### SQL Project
 - [Data Exploration using Covid Dataset](https://github.com/ansarimoiz/SQL_Project)
 
