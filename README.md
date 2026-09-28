@@ -5,8 +5,11 @@
 <!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Abdul Moiz 👋 
+#Data Analyst with expertise in business intelligence, ETL pipeline development, and data modeling.
+# I've built end-to-end analytics workflows from requirements gathering through data pipeline development to dashboard delivery across finance and operations functions, working with datasets exceeding a million records. # I’ve also worked on predictive modelling, including a vessel booking cancellation model that achieved 75% accuracy. During my Master’s, I developed a bilevel optimization model for product pricing and worked with other optimization methods.  
+
 - **Master of Applied Science Graduate** from Concordia University
-- **Graduate Research Assistant** under Dr. Ivan Contreras with about 2 years of experience
+<!-- - **Graduate Research Assistant** under Dr. Ivan Contreras with about 2 years of experience
 
 <!-- [My Resume](https://github.com/ansarimoiz/ansarimoiz/files/8336300/AbdulMoiz.pdf) -->
 
